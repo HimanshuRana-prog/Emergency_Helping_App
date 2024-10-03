@@ -95,3 +95,6 @@ def send_alert(self, instance):
         to=contact
     )
     print("Alert sent!")
+
+
+
