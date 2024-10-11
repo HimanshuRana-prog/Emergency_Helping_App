@@ -8,4 +8,3 @@ sg.theme("Black")
 lable1 = sg.Text("GPS")
 input_1 = sg.Input()
 
-button
